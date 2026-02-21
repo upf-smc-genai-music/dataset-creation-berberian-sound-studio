@@ -1,0 +1,1087 @@
+Wrote /Users/yalu/FluidSoundRepository/dataset/raw/parameters.json
+
+[1/330] scale=0.5000 -> bubble_size_0001
+  Already exists (5.48s), skipping
+
+[2/330] scale=0.5046 -> bubble_size_0002
+  Already exists (5.48s), skipping
+
+[3/330] scale=0.5091 -> bubble_size_0003
+  Already exists (5.48s), skipping
+
+[4/330] scale=0.5137 -> bubble_size_0004
+  Already exists (5.48s), skipping
+
+[5/330] scale=0.5182 -> bubble_size_0005
+  Already exists (5.48s), skipping
+
+[6/330] scale=0.5228 -> bubble_size_0006
+  Already exists (5.48s), skipping
+
+[7/330] scale=0.5274 -> bubble_size_0007
+  Already exists (5.48s), skipping
+
+[8/330] scale=0.5319 -> bubble_size_0008
+  Already exists (5.48s), skipping
+
+[9/330] scale=0.5365 -> bubble_size_0009
+  Already exists (5.48s), skipping
+
+[10/330] scale=0.5410 -> bubble_size_0010
+  Already exists (5.48s), skipping
+
+[11/330] scale=0.5456 -> bubble_size_0011
+  Already exists (5.48s), skipping
+
+[12/330] scale=0.5502 -> bubble_size_0012
+  Already exists (5.48s), skipping
+
+[13/330] scale=0.5547 -> bubble_size_0013
+  Already exists (5.48s), skipping
+
+[14/330] scale=0.5593 -> bubble_size_0014
+  Already exists (5.48s), skipping
+
+[15/330] scale=0.5638 -> bubble_size_0015
+  Already exists (5.48s), skipping
+
+[16/330] scale=0.5684 -> bubble_size_0016
+  Already exists (5.48s), skipping
+
+[17/330] scale=0.5729 -> bubble_size_0017
+  Already exists (5.48s), skipping
+
+[18/330] scale=0.5775 -> bubble_size_0018
+  Already exists (5.48s), skipping
+
+[19/330] scale=0.5821 -> bubble_size_0019
+  Already exists (5.48s), skipping
+
+[20/330] scale=0.5866 -> bubble_size_0020
+  Already exists (5.48s), skipping
+
+[21/330] scale=0.5912 -> bubble_size_0021
+  Already exists (5.48s), skipping
+
+[22/330] scale=0.5957 -> bubble_size_0022
+  Already exists (5.48s), skipping
+
+[23/330] scale=0.6003 -> bubble_size_0023
+  Already exists (5.48s), skipping
+
+[24/330] scale=0.6049 -> bubble_size_0024
+  Already exists (5.48s), skipping
+
+[25/330] scale=0.6094 -> bubble_size_0025
+  Already exists (5.48s), skipping
+
+[26/330] scale=0.6140 -> bubble_size_0026
+  Already exists (5.48s), skipping
+
+[27/330] scale=0.6185 -> bubble_size_0027
+  Already exists (5.48s), skipping
+
+[28/330] scale=0.6231 -> bubble_size_0028
+  Already exists (5.48s), skipping
+
+[29/330] scale=0.6277 -> bubble_size_0029
+  Already exists (5.48s), skipping
+
+[30/330] scale=0.6322 -> bubble_size_0030
+  Already exists (5.48s), skipping
+
+[31/330] scale=0.6368 -> bubble_size_0031
+  Already exists (5.48s), skipping
+
+[32/330] scale=0.6413 -> bubble_size_0032
+  Already exists (5.48s), skipping
+
+[33/330] scale=0.6459 -> bubble_size_0033
+  Already exists (5.48s), skipping
+
+[34/330] scale=0.6505 -> bubble_size_0034
+  Already exists (5.48s), skipping
+
+[35/330] scale=0.6550 -> bubble_size_0035
+  Already exists (5.48s), skipping
+
+[36/330] scale=0.6596 -> bubble_size_0036
+  Already exists (5.48s), skipping
+
+[37/330] scale=0.6641 -> bubble_size_0037
+  Already exists (5.48s), skipping
+
+[38/330] scale=0.6687 -> bubble_size_0038
+  Already exists (5.48s), skipping
+
+[39/330] scale=0.6733 -> bubble_size_0039
+  Already exists (5.48s), skipping
+
+[40/330] scale=0.6778 -> bubble_size_0040
+  Already exists (5.48s), skipping
+
+[41/330] scale=0.6824 -> bubble_size_0041
+  Generated 5.48s audio
+
+[42/330] scale=0.6869 -> bubble_size_0042
+  Generated 5.48s audio
+
+[43/330] scale=0.6915 -> bubble_size_0043
+  Generated 5.48s audio
+
+[44/330] scale=0.6960 -> bubble_size_0044
+  Generated 5.48s audio
+
+[45/330] scale=0.7006 -> bubble_size_0045
+  Generated 5.48s audio
+
+[46/330] scale=0.7052 -> bubble_size_0046
+  Generated 5.48s audio
+
+[47/330] scale=0.7097 -> bubble_size_0047
+  Generated 5.48s audio
+
+[48/330] scale=0.7143 -> bubble_size_0048
+  Generated 5.48s audio
+
+[49/330] scale=0.7188 -> bubble_size_0049
+  Generated 5.48s audio
+
+[50/330] scale=0.7234 -> bubble_size_0050
+  Generated 5.48s audio
+
+  === Progress: 50 done, 0 failed, total audio: 274.2s (4.6 min) ===
+
+
+[51/330] scale=0.7280 -> bubble_size_0051
+  Generated 5.48s audio
+
+[52/330] scale=0.7325 -> bubble_size_0052
+  Generated 5.48s audio
+
+[53/330] scale=0.7371 -> bubble_size_0053
+  Generated 5.48s audio
+
+[54/330] scale=0.7416 -> bubble_size_0054
+  Generated 5.48s audio
+
+[55/330] scale=0.7462 -> bubble_size_0055
+  Generated 5.48s audio
+
+[56/330] scale=0.7508 -> bubble_size_0056
+  Generated 5.48s audio
+
+[57/330] scale=0.7553 -> bubble_size_0057
+  Generated 5.48s audio
+
+[58/330] scale=0.7599 -> bubble_size_0058
+  Generated 5.48s audio
+
+[59/330] scale=0.7644 -> bubble_size_0059
+  Generated 5.48s audio
+
+[60/330] scale=0.7690 -> bubble_size_0060
+  Generated 5.48s audio
+
+  === Progress: 60 done, 0 failed, total audio: 329.1s (5.5 min) ===
+
+
+[61/330] scale=0.7736 -> bubble_size_0061
+  Generated 5.48s audio
+
+[62/330] scale=0.7781 -> bubble_size_0062
+  Generated 5.48s audio
+
+[63/330] scale=0.7827 -> bubble_size_0063
+  Generated 5.48s audio
+
+[64/330] scale=0.7872 -> bubble_size_0064
+  Generated 5.48s audio
+
+[65/330] scale=0.7918 -> bubble_size_0065
+  Generated 5.48s audio
+
+[66/330] scale=0.7964 -> bubble_size_0066
+  Generated 5.48s audio
+
+[67/330] scale=0.8009 -> bubble_size_0067
+  Generated 5.48s audio
+
+[68/330] scale=0.8055 -> bubble_size_0068
+  Generated 5.48s audio
+
+[69/330] scale=0.8100 -> bubble_size_0069
+  Generated 5.48s audio
+
+[70/330] scale=0.8146 -> bubble_size_0070
+  Generated 5.48s audio
+
+  === Progress: 70 done, 0 failed, total audio: 383.9s (6.4 min) ===
+
+
+[71/330] scale=0.8191 -> bubble_size_0071
+  Generated 5.48s audio
+
+[72/330] scale=0.8237 -> bubble_size_0072
+  Generated 5.48s audio
+
+[73/330] scale=0.8283 -> bubble_size_0073
+  Generated 5.48s audio
+
+[74/330] scale=0.8328 -> bubble_size_0074
+  Generated 5.48s audio
+
+[75/330] scale=0.8374 -> bubble_size_0075
+  Generated 5.48s audio
+
+[76/330] scale=0.8419 -> bubble_size_0076
+  Generated 5.48s audio
+
+[77/330] scale=0.8465 -> bubble_size_0077
+  Generated 5.48s audio
+
+[78/330] scale=0.8511 -> bubble_size_0078
+  Generated 5.48s audio
+
+[79/330] scale=0.8556 -> bubble_size_0079
+  Generated 5.48s audio
+
+[80/330] scale=0.8602 -> bubble_size_0080
+  Generated 5.48s audio
+
+  === Progress: 80 done, 0 failed, total audio: 438.8s (7.3 min) ===
+
+
+[81/330] scale=0.8647 -> bubble_size_0081
+  Generated 5.48s audio
+
+[82/330] scale=0.8693 -> bubble_size_0082
+  Generated 5.48s audio
+
+[83/330] scale=0.8739 -> bubble_size_0083
+  Generated 5.48s audio
+
+[84/330] scale=0.8784 -> bubble_size_0084
+  Generated 5.48s audio
+
+[85/330] scale=0.8830 -> bubble_size_0085
+  Generated 5.48s audio
+
+[86/330] scale=0.8875 -> bubble_size_0086
+  Generated 5.48s audio
+
+[87/330] scale=0.8921 -> bubble_size_0087
+  Generated 5.48s audio
+
+[88/330] scale=0.8967 -> bubble_size_0088
+  Generated 5.48s audio
+
+[89/330] scale=0.9012 -> bubble_size_0089
+  Generated 5.48s audio
+
+[90/330] scale=0.9058 -> bubble_size_0090
+  Generated 5.48s audio
+
+  === Progress: 90 done, 0 failed, total audio: 493.6s (8.2 min) ===
+
+
+[91/330] scale=0.9103 -> bubble_size_0091
+  Generated 5.48s audio
+
+[92/330] scale=0.9149 -> bubble_size_0092
+  Generated 5.48s audio
+
+[93/330] scale=0.9195 -> bubble_size_0093
+  Generated 5.48s audio
+
+[94/330] scale=0.9240 -> bubble_size_0094
+  Generated 5.48s audio
+
+[95/330] scale=0.9286 -> bubble_size_0095
+  Generated 5.48s audio
+
+[96/330] scale=0.9331 -> bubble_size_0096
+  Generated 5.48s audio
+
+[97/330] scale=0.9377 -> bubble_size_0097
+  Generated 5.48s audio
+
+[98/330] scale=0.9422 -> bubble_size_0098
+  Generated 5.48s audio
+
+[99/330] scale=0.9468 -> bubble_size_0099
+  Generated 5.48s audio
+
+[100/330] scale=0.9514 -> bubble_size_0100
+  Generated 5.48s audio
+
+  === Progress: 100 done, 0 failed, total audio: 548.5s (9.1 min) ===
+
+
+[101/330] scale=0.9559 -> bubble_size_0101
+  Generated 5.48s audio
+
+[102/330] scale=0.9605 -> bubble_size_0102
+  Generated 5.48s audio
+
+[103/330] scale=0.9650 -> bubble_size_0103
+  Generated 5.48s audio
+
+[104/330] scale=0.9696 -> bubble_size_0104
+  Generated 5.48s audio
+
+[105/330] scale=0.9742 -> bubble_size_0105
+  Generated 5.48s audio
+
+[106/330] scale=0.9787 -> bubble_size_0106
+  Generated 5.48s audio
+
+[107/330] scale=0.9833 -> bubble_size_0107
+  Generated 5.48s audio
+
+[108/330] scale=0.9878 -> bubble_size_0108
+  Generated 5.48s audio
+
+[109/330] scale=0.9924 -> bubble_size_0109
+  Generated 5.48s audio
+
+[110/330] scale=0.9970 -> bubble_size_0110
+  Generated 5.48s audio
+
+  === Progress: 110 done, 0 failed, total audio: 603.3s (10.1 min) ===
+
+
+[111/330] scale=1.0015 -> bubble_size_0111
+  Generated 5.48s audio
+
+[112/330] scale=1.0061 -> bubble_size_0112
+  Generated 5.48s audio
+
+[113/330] scale=1.0106 -> bubble_size_0113
+  Generated 5.48s audio
+
+[114/330] scale=1.0152 -> bubble_size_0114
+  Generated 5.48s audio
+
+[115/330] scale=1.0198 -> bubble_size_0115
+  Generated 5.48s audio
+
+[116/330] scale=1.0243 -> bubble_size_0116
+  Generated 5.48s audio
+
+[117/330] scale=1.0289 -> bubble_size_0117
+  Generated 5.48s audio
+
+[118/330] scale=1.0334 -> bubble_size_0118
+  Generated 5.48s audio
+
+[119/330] scale=1.0380 -> bubble_size_0119
+  Generated 5.48s audio
+
+[120/330] scale=1.0426 -> bubble_size_0120
+  Generated 5.48s audio
+
+  === Progress: 120 done, 0 failed, total audio: 658.2s (11.0 min) ===
+
+
+[121/330] scale=1.0471 -> bubble_size_0121
+  Generated 5.48s audio
+
+[122/330] scale=1.0517 -> bubble_size_0122
+  Generated 5.48s audio
+
+[123/330] scale=1.0562 -> bubble_size_0123
+  Generated 5.48s audio
+
+[124/330] scale=1.0608 -> bubble_size_0124
+  Generated 5.48s audio
+
+[125/330] scale=1.0653 -> bubble_size_0125
+  Generated 5.48s audio
+
+[126/330] scale=1.0699 -> bubble_size_0126
+  Generated 5.48s audio
+
+[127/330] scale=1.0745 -> bubble_size_0127
+  Generated 5.48s audio
+
+[128/330] scale=1.0790 -> bubble_size_0128
+  Generated 5.48s audio
+
+[129/330] scale=1.0836 -> bubble_size_0129
+  Generated 5.48s audio
+
+[130/330] scale=1.0881 -> bubble_size_0130
+  Generated 5.48s audio
+
+  === Progress: 130 done, 0 failed, total audio: 713.0s (11.9 min) ===
+
+
+[131/330] scale=1.0927 -> bubble_size_0131
+  Generated 5.48s audio
+
+[132/330] scale=1.0973 -> bubble_size_0132
+  Generated 5.48s audio
+
+[133/330] scale=1.1018 -> bubble_size_0133
+  Generated 5.48s audio
+
+[134/330] scale=1.1064 -> bubble_size_0134
+  Generated 5.48s audio
+
+[135/330] scale=1.1109 -> bubble_size_0135
+  Generated 5.48s audio
+
+[136/330] scale=1.1155 -> bubble_size_0136
+  Generated 5.48s audio
+
+[137/330] scale=1.1201 -> bubble_size_0137
+  Generated 5.48s audio
+
+[138/330] scale=1.1246 -> bubble_size_0138
+  Generated 5.48s audio
+
+[139/330] scale=1.1292 -> bubble_size_0139
+  Generated 5.48s audio
+
+[140/330] scale=1.1337 -> bubble_size_0140
+  Generated 5.48s audio
+
+  === Progress: 140 done, 0 failed, total audio: 767.9s (12.8 min) ===
+
+
+[141/330] scale=1.1383 -> bubble_size_0141
+  Generated 5.48s audio
+
+[142/330] scale=1.1429 -> bubble_size_0142
+  Generated 5.48s audio
+
+[143/330] scale=1.1474 -> bubble_size_0143
+  Generated 5.48s audio
+
+[144/330] scale=1.1520 -> bubble_size_0144
+  Generated 5.48s audio
+
+[145/330] scale=1.1565 -> bubble_size_0145
+  Generated 5.48s audio
+
+[146/330] scale=1.1611 -> bubble_size_0146
+  Generated 5.48s audio
+
+[147/330] scale=1.1657 -> bubble_size_0147
+  Generated 5.48s audio
+
+[148/330] scale=1.1702 -> bubble_size_0148
+  Generated 5.48s audio
+
+[149/330] scale=1.1748 -> bubble_size_0149
+  Generated 5.48s audio
+
+[150/330] scale=1.1793 -> bubble_size_0150
+  Generated 5.48s audio
+
+  === Progress: 150 done, 0 failed, total audio: 822.7s (13.7 min) ===
+
+
+[151/330] scale=1.1839 -> bubble_size_0151
+  Generated 5.48s audio
+
+[152/330] scale=1.1884 -> bubble_size_0152
+  Generated 5.48s audio
+
+[153/330] scale=1.1930 -> bubble_size_0153
+  Generated 5.48s audio
+
+[154/330] scale=1.1976 -> bubble_size_0154
+  Generated 5.48s audio
+
+[155/330] scale=1.2021 -> bubble_size_0155
+  Generated 5.48s audio
+
+[156/330] scale=1.2067 -> bubble_size_0156
+  Generated 5.48s audio
+
+[157/330] scale=1.2112 -> bubble_size_0157
+  Generated 5.48s audio
+
+[158/330] scale=1.2158 -> bubble_size_0158
+  Generated 5.48s audio
+
+[159/330] scale=1.2204 -> bubble_size_0159
+  Generated 5.48s audio
+
+[160/330] scale=1.2249 -> bubble_size_0160
+  Generated 5.48s audio
+
+  === Progress: 160 done, 0 failed, total audio: 877.6s (14.6 min) ===
+
+
+[161/330] scale=1.2295 -> bubble_size_0161
+  Generated 5.48s audio
+
+[162/330] scale=1.2340 -> bubble_size_0162
+  Generated 5.48s audio
+
+[163/330] scale=1.2386 -> bubble_size_0163
+  Generated 5.48s audio
+
+[164/330] scale=1.2432 -> bubble_size_0164
+  Generated 5.48s audio
+
+[165/330] scale=1.2477 -> bubble_size_0165
+  Generated 5.48s audio
+
+[166/330] scale=1.2523 -> bubble_size_0166
+  Generated 5.48s audio
+
+[167/330] scale=1.2568 -> bubble_size_0167
+  Generated 5.48s audio
+
+[168/330] scale=1.2614 -> bubble_size_0168
+  Generated 5.48s audio
+
+[169/330] scale=1.2660 -> bubble_size_0169
+  Generated 5.48s audio
+
+[170/330] scale=1.2705 -> bubble_size_0170
+  Generated 5.48s audio
+
+  === Progress: 170 done, 0 failed, total audio: 932.4s (15.5 min) ===
+
+
+[171/330] scale=1.2751 -> bubble_size_0171
+  Generated 5.48s audio
+
+[172/330] scale=1.2796 -> bubble_size_0172
+  Generated 5.48s audio
+
+[173/330] scale=1.2842 -> bubble_size_0173
+  Generated 5.48s audio
+
+[174/330] scale=1.2888 -> bubble_size_0174
+  Generated 5.48s audio
+
+[175/330] scale=1.2933 -> bubble_size_0175
+  Generated 5.48s audio
+
+[176/330] scale=1.2979 -> bubble_size_0176
+  Generated 5.48s audio
+
+[177/330] scale=1.3024 -> bubble_size_0177
+  Generated 5.48s audio
+
+[178/330] scale=1.3070 -> bubble_size_0178
+  Generated 5.48s audio
+
+[179/330] scale=1.3116 -> bubble_size_0179
+  Generated 5.48s audio
+
+[180/330] scale=1.3161 -> bubble_size_0180
+  Generated 5.48s audio
+
+  === Progress: 180 done, 0 failed, total audio: 987.3s (16.5 min) ===
+
+
+[181/330] scale=1.3207 -> bubble_size_0181
+  Generated 5.48s audio
+
+[182/330] scale=1.3252 -> bubble_size_0182
+  Generated 5.48s audio
+
+[183/330] scale=1.3298 -> bubble_size_0183
+  Generated 5.48s audio
+
+[184/330] scale=1.3343 -> bubble_size_0184
+  Generated 5.48s audio
+
+[185/330] scale=1.3389 -> bubble_size_0185
+  Generated 5.48s audio
+
+[186/330] scale=1.3435 -> bubble_size_0186
+  Generated 5.48s audio
+
+[187/330] scale=1.3480 -> bubble_size_0187
+  Generated 5.48s audio
+
+[188/330] scale=1.3526 -> bubble_size_0188
+  Generated 5.48s audio
+
+[189/330] scale=1.3571 -> bubble_size_0189
+  Generated 5.48s audio
+
+[190/330] scale=1.3617 -> bubble_size_0190
+  Generated 5.48s audio
+
+  === Progress: 190 done, 0 failed, total audio: 1042.1s (17.4 min) ===
+
+
+[191/330] scale=1.3663 -> bubble_size_0191
+  Generated 5.48s audio
+
+[192/330] scale=1.3708 -> bubble_size_0192
+  Generated 5.48s audio
+
+[193/330] scale=1.3754 -> bubble_size_0193
+  Generated 5.48s audio
+
+[194/330] scale=1.3799 -> bubble_size_0194
+  Generated 5.48s audio
+
+[195/330] scale=1.3845 -> bubble_size_0195
+  Generated 5.48s audio
+
+[196/330] scale=1.3891 -> bubble_size_0196
+  Generated 5.48s audio
+
+[197/330] scale=1.3936 -> bubble_size_0197
+  Generated 5.48s audio
+
+[198/330] scale=1.3982 -> bubble_size_0198
+  Generated 5.48s audio
+
+[199/330] scale=1.4027 -> bubble_size_0199
+  Generated 5.48s audio
+
+[200/330] scale=1.4073 -> bubble_size_0200
+  Generated 5.48s audio
+
+  === Progress: 200 done, 0 failed, total audio: 1097.0s (18.3 min) ===
+
+
+[201/330] scale=1.4119 -> bubble_size_0201
+  Generated 5.48s audio
+
+[202/330] scale=1.4164 -> bubble_size_0202
+  Generated 5.48s audio
+
+[203/330] scale=1.4210 -> bubble_size_0203
+  Generated 5.48s audio
+
+[204/330] scale=1.4255 -> bubble_size_0204
+  Generated 5.48s audio
+
+[205/330] scale=1.4301 -> bubble_size_0205
+  Generated 5.48s audio
+
+[206/330] scale=1.4347 -> bubble_size_0206
+  Generated 5.48s audio
+
+[207/330] scale=1.4392 -> bubble_size_0207
+  Generated 5.48s audio
+
+[208/330] scale=1.4438 -> bubble_size_0208
+  Generated 5.48s audio
+
+[209/330] scale=1.4483 -> bubble_size_0209
+  Generated 5.48s audio
+
+[210/330] scale=1.4529 -> bubble_size_0210
+  Generated 5.48s audio
+
+  === Progress: 210 done, 0 failed, total audio: 1151.8s (19.2 min) ===
+
+
+[211/330] scale=1.4574 -> bubble_size_0211
+  Generated 5.48s audio
+
+[212/330] scale=1.4620 -> bubble_size_0212
+  Generated 5.48s audio
+
+[213/330] scale=1.4666 -> bubble_size_0213
+  Generated 5.48s audio
+
+[214/330] scale=1.4711 -> bubble_size_0214
+  Generated 5.48s audio
+
+[215/330] scale=1.4757 -> bubble_size_0215
+  Generated 5.48s audio
+
+[216/330] scale=1.4802 -> bubble_size_0216
+  Generated 5.48s audio
+
+[217/330] scale=1.4848 -> bubble_size_0217
+  Generated 5.48s audio
+
+[218/330] scale=1.4894 -> bubble_size_0218
+  Generated 5.48s audio
+
+[219/330] scale=1.4939 -> bubble_size_0219
+  Generated 5.48s audio
+
+[220/330] scale=1.4985 -> bubble_size_0220
+  Generated 5.48s audio
+
+  === Progress: 220 done, 0 failed, total audio: 1206.7s (20.1 min) ===
+
+
+[221/330] scale=1.5030 -> bubble_size_0221
+  Generated 5.48s audio
+
+[222/330] scale=1.5076 -> bubble_size_0222
+  Generated 5.48s audio
+
+[223/330] scale=1.5122 -> bubble_size_0223
+  Generated 5.48s audio
+
+[224/330] scale=1.5167 -> bubble_size_0224
+  Generated 5.48s audio
+
+[225/330] scale=1.5213 -> bubble_size_0225
+  Generated 5.48s audio
+
+[226/330] scale=1.5258 -> bubble_size_0226
+  Generated 5.48s audio
+
+[227/330] scale=1.5304 -> bubble_size_0227
+  Generated 5.48s audio
+
+[228/330] scale=1.5350 -> bubble_size_0228
+  Generated 5.48s audio
+
+[229/330] scale=1.5395 -> bubble_size_0229
+  Generated 5.48s audio
+
+[230/330] scale=1.5441 -> bubble_size_0230
+  Generated 5.48s audio
+
+  === Progress: 230 done, 0 failed, total audio: 1261.5s (21.0 min) ===
+
+
+[231/330] scale=1.5486 -> bubble_size_0231
+  Generated 5.48s audio
+
+[232/330] scale=1.5532 -> bubble_size_0232
+  Generated 5.48s audio
+
+[233/330] scale=1.5578 -> bubble_size_0233
+  Generated 5.48s audio
+
+[234/330] scale=1.5623 -> bubble_size_0234
+  Generated 5.48s audio
+
+[235/330] scale=1.5669 -> bubble_size_0235
+  Generated 5.48s audio
+
+[236/330] scale=1.5714 -> bubble_size_0236
+  Generated 5.48s audio
+
+[237/330] scale=1.5760 -> bubble_size_0237
+  Generated 5.48s audio
+
+[238/330] scale=1.5805 -> bubble_size_0238
+  Generated 5.48s audio
+
+[239/330] scale=1.5851 -> bubble_size_0239
+  Generated 5.48s audio
+
+[240/330] scale=1.5897 -> bubble_size_0240
+  Generated 5.48s audio
+
+  === Progress: 240 done, 0 failed, total audio: 1316.4s (21.9 min) ===
+
+
+[241/330] scale=1.5942 -> bubble_size_0241
+  Generated 5.48s audio
+
+[242/330] scale=1.5988 -> bubble_size_0242
+  Generated 5.48s audio
+
+[243/330] scale=1.6033 -> bubble_size_0243
+  Generated 5.48s audio
+
+[244/330] scale=1.6079 -> bubble_size_0244
+  Generated 5.48s audio
+
+[245/330] scale=1.6125 -> bubble_size_0245
+  Generated 5.48s audio
+
+[246/330] scale=1.6170 -> bubble_size_0246
+  Generated 5.48s audio
+
+[247/330] scale=1.6216 -> bubble_size_0247
+  Generated 5.48s audio
+
+[248/330] scale=1.6261 -> bubble_size_0248
+  Generated 5.48s audio
+
+[249/330] scale=1.6307 -> bubble_size_0249
+  Generated 5.48s audio
+
+[250/330] scale=1.6353 -> bubble_size_0250
+  Generated 5.48s audio
+
+  === Progress: 250 done, 0 failed, total audio: 1371.2s (22.9 min) ===
+
+
+[251/330] scale=1.6398 -> bubble_size_0251
+  Generated 5.48s audio
+
+[252/330] scale=1.6444 -> bubble_size_0252
+  Generated 5.48s audio
+
+[253/330] scale=1.6489 -> bubble_size_0253
+  Generated 5.48s audio
+
+[254/330] scale=1.6535 -> bubble_size_0254
+  Generated 5.48s audio
+
+[255/330] scale=1.6581 -> bubble_size_0255
+  Generated 5.48s audio
+
+[256/330] scale=1.6626 -> bubble_size_0256
+  Generated 5.48s audio
+
+[257/330] scale=1.6672 -> bubble_size_0257
+  Generated 5.48s audio
+
+[258/330] scale=1.6717 -> bubble_size_0258
+  Generated 5.48s audio
+
+[259/330] scale=1.6763 -> bubble_size_0259
+  Generated 5.48s audio
+
+[260/330] scale=1.6809 -> bubble_size_0260
+  Generated 5.48s audio
+
+  === Progress: 260 done, 0 failed, total audio: 1426.1s (23.8 min) ===
+
+
+[261/330] scale=1.6854 -> bubble_size_0261
+  Generated 5.48s audio
+
+[262/330] scale=1.6900 -> bubble_size_0262
+  Generated 5.48s audio
+
+[263/330] scale=1.6945 -> bubble_size_0263
+  Generated 5.48s audio
+
+[264/330] scale=1.6991 -> bubble_size_0264
+  Generated 5.48s audio
+
+[265/330] scale=1.7036 -> bubble_size_0265
+  Generated 5.48s audio
+
+[266/330] scale=1.7082 -> bubble_size_0266
+  Generated 5.48s audio
+
+[267/330] scale=1.7128 -> bubble_size_0267
+  Generated 5.48s audio
+
+[268/330] scale=1.7173 -> bubble_size_0268
+  Generated 5.48s audio
+
+[269/330] scale=1.7219 -> bubble_size_0269
+  Generated 5.48s audio
+
+[270/330] scale=1.7264 -> bubble_size_0270
+  Generated 5.48s audio
+
+  === Progress: 270 done, 0 failed, total audio: 1480.9s (24.7 min) ===
+
+
+[271/330] scale=1.7310 -> bubble_size_0271
+  Generated 5.48s audio
+
+[272/330] scale=1.7356 -> bubble_size_0272
+  Generated 5.48s audio
+
+[273/330] scale=1.7401 -> bubble_size_0273
+  Generated 5.48s audio
+
+[274/330] scale=1.7447 -> bubble_size_0274
+  Generated 5.48s audio
+
+[275/330] scale=1.7492 -> bubble_size_0275
+  Generated 5.48s audio
+
+[276/330] scale=1.7538 -> bubble_size_0276
+  Generated 5.48s audio
+
+[277/330] scale=1.7584 -> bubble_size_0277
+  Generated 5.48s audio
+
+[278/330] scale=1.7629 -> bubble_size_0278
+  Generated 5.48s audio
+
+[279/330] scale=1.7675 -> bubble_size_0279
+  Generated 5.48s audio
+
+[280/330] scale=1.7720 -> bubble_size_0280
+  Generated 5.48s audio
+
+  === Progress: 280 done, 0 failed, total audio: 1535.8s (25.6 min) ===
+
+
+[281/330] scale=1.7766 -> bubble_size_0281
+  Generated 5.48s audio
+
+[282/330] scale=1.7812 -> bubble_size_0282
+  Generated 5.48s audio
+
+[283/330] scale=1.7857 -> bubble_size_0283
+  Generated 5.48s audio
+
+[284/330] scale=1.7903 -> bubble_size_0284
+  Generated 5.48s audio
+
+[285/330] scale=1.7948 -> bubble_size_0285
+  Generated 5.48s audio
+
+[286/330] scale=1.7994 -> bubble_size_0286
+  Generated 5.48s audio
+
+[287/330] scale=1.8040 -> bubble_size_0287
+  Generated 5.48s audio
+
+[288/330] scale=1.8085 -> bubble_size_0288
+  Generated 5.48s audio
+
+[289/330] scale=1.8131 -> bubble_size_0289
+  Generated 5.48s audio
+
+[290/330] scale=1.8176 -> bubble_size_0290
+  Generated 5.48s audio
+
+  === Progress: 290 done, 0 failed, total audio: 1590.6s (26.5 min) ===
+
+
+[291/330] scale=1.8222 -> bubble_size_0291
+  Generated 5.48s audio
+
+[292/330] scale=1.8267 -> bubble_size_0292
+  Generated 5.48s audio
+
+[293/330] scale=1.8313 -> bubble_size_0293
+  Generated 5.48s audio
+
+[294/330] scale=1.8359 -> bubble_size_0294
+  Generated 5.48s audio
+
+[295/330] scale=1.8404 -> bubble_size_0295
+  Generated 5.48s audio
+
+[296/330] scale=1.8450 -> bubble_size_0296
+  Generated 5.48s audio
+
+[297/330] scale=1.8495 -> bubble_size_0297
+  Generated 5.48s audio
+
+[298/330] scale=1.8541 -> bubble_size_0298
+  Generated 5.48s audio
+
+[299/330] scale=1.8587 -> bubble_size_0299
+  Generated 5.48s audio
+
+[300/330] scale=1.8632 -> bubble_size_0300
+  Generated 5.48s audio
+
+  === Progress: 300 done, 0 failed, total audio: 1645.5s (27.4 min) ===
+
+
+[301/330] scale=1.8678 -> bubble_size_0301
+  Generated 5.48s audio
+
+[302/330] scale=1.8723 -> bubble_size_0302
+  Generated 5.48s audio
+
+[303/330] scale=1.8769 -> bubble_size_0303
+  Generated 5.48s audio
+
+[304/330] scale=1.8815 -> bubble_size_0304
+  Generated 5.48s audio
+
+[305/330] scale=1.8860 -> bubble_size_0305
+  Generated 5.48s audio
+
+[306/330] scale=1.8906 -> bubble_size_0306
+  Generated 5.48s audio
+
+[307/330] scale=1.8951 -> bubble_size_0307
+  Generated 5.48s audio
+
+[308/330] scale=1.8997 -> bubble_size_0308
+  Generated 5.48s audio
+
+[309/330] scale=1.9043 -> bubble_size_0309
+  Generated 5.48s audio
+
+[310/330] scale=1.9088 -> bubble_size_0310
+  Generated 5.48s audio
+
+  === Progress: 310 done, 0 failed, total audio: 1700.3s (28.3 min) ===
+
+
+[311/330] scale=1.9134 -> bubble_size_0311
+  Generated 5.48s audio
+
+[312/330] scale=1.9179 -> bubble_size_0312
+  Generated 5.48s audio
+
+[313/330] scale=1.9225 -> bubble_size_0313
+  Generated 5.48s audio
+
+[314/330] scale=1.9271 -> bubble_size_0314
+  Generated 5.48s audio
+
+[315/330] scale=1.9316 -> bubble_size_0315
+  Generated 5.48s audio
+
+[316/330] scale=1.9362 -> bubble_size_0316
+  Generated 5.48s audio
+
+[317/330] scale=1.9407 -> bubble_size_0317
+  Generated 5.48s audio
+
+[318/330] scale=1.9453 -> bubble_size_0318
+  Generated 5.48s audio
+
+[319/330] scale=1.9498 -> bubble_size_0319
+  Generated 5.48s audio
+
+[320/330] scale=1.9544 -> bubble_size_0320
+  Generated 5.48s audio
+
+  === Progress: 320 done, 0 failed, total audio: 1755.2s (29.3 min) ===
+
+
+[321/330] scale=1.9590 -> bubble_size_0321
+  Generated 5.48s audio
+
+[322/330] scale=1.9635 -> bubble_size_0322
+  Generated 5.48s audio
+
+[323/330] scale=1.9681 -> bubble_size_0323
+  Generated 5.48s audio
+
+[324/330] scale=1.9726 -> bubble_size_0324
+  Generated 5.48s audio
+
+[325/330] scale=1.9772 -> bubble_size_0325
+  Generated 5.48s audio
+
+[326/330] scale=1.9818 -> bubble_size_0326
+  Generated 5.48s audio
+
+[327/330] scale=1.9863 -> bubble_size_0327
+  Generated 5.48s audio
+
+[328/330] scale=1.9909 -> bubble_size_0328
+  Generated 5.48s audio
+
+[329/330] scale=1.9954 -> bubble_size_0329
+  Generated 5.48s audio
+
+[330/330] scale=2.0000 -> bubble_size_0330
+  Generated 5.48s audio
+
+  === Progress: 330 done, 0 failed, total audio: 1810.0s (30.2 min) ===
+
+
+============================================================
+Dataset generation complete!
+  Clips generated: 330/330
+  Failed: 0
+  Total audio: 1810.0s (30.2 min)
+  Output directory: /Users/yalu/FluidSoundRepository/dataset/raw
+  Files: parameters.json + 330 .wav/.csv pairs
+============================================================

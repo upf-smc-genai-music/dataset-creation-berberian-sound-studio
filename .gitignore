@@ -1,0 +1,16 @@
+# Ignore build files
+/build/
+
+# Project metadata files to keep out of VCS
+DATASET.md
+DATAFORMAT.md
+
+# Python artifacts
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Editor settings
+.vscode/
