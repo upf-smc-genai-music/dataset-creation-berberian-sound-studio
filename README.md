@@ -6,16 +6,11 @@ Bubble-based water sound synthesis code based on the papers:
 
 > [Toward Animating Water with Complex Acoustic Bubbles](https://www.cs.cornell.edu/projects/Sound/bubbles/). Timothy R. Langlois, Changxi Zheng, Doug L. James. *ACM Transactions on Graphics (SIGGRAPH North America 2016)*. 
 
-This repository provides dataset-generation utilities built on top of the FluidSound
-bubble-based water-sound synthesizer. It packages code and scripts to produce a
-systematically-varying audio texture dataset (wav + CSV annotations + a
-parameters.json) intended for audio modelling and texture research.
-
 Overview
 --------
 
-This project builds on the FluidSound implementation and reproduces the
-appropriate attribution and licensing. The original work is described in:
+This repository provides dataset-generation utilities built on top of the FluidSound bubble-based water-sound synthesizer. It packages code and scripts to produce a systematically-varying audio texture dataset (wav + CSV annotations + a
+parameters.json) intended for audio modelling and texture research. The original work is described in:
 
 - Xue, K., Aronson, R. M., Wang, J.-H., Langlois, T. R., & James, D. L.,
   "Improved Water Sound Synthesis using Coupled Bubbles", ACM Trans. Graph., 2023.
@@ -27,17 +22,17 @@ Scripts overview
 --------------------------------------
 
 `scripts/generate_dataset.py`: Main dataset generator. It scales bubble radii
-  (parameter `bubble_size`), runs the `runFluidSound` executable for each scale,
-  converts the simulation `output.txt` into a normalized `.wav`, and writes the
-  resulting `.wav` + `.csv` pairs plus `parameters.json` directly into `raw/`.
-  This script and the accompanying files were developed using the FluidSound
-  implementation (https://github.com/kangruix/FluidSound). The generator varies
-  the bubble radius scale factor to produce systematically different water
-  sounds: smaller bubbles → higher-pitched (thin trickle), larger bubbles →
-  lower-pitched (heavy pour / fill). The parameter is called `bubble_size` and
-  is a continuous scale factor; physically, scaling the radius by `s` scales
-  the Minnaert frequency by `1/s`, so this directly controls the pitch
-  character of the synthesized audio.
+(parameter `bubble_size`), runs the `runFluidSound` executable for each scale,
+converts the simulation `output.txt` into a normalized `.wav`, and writes the
+resulting `.wav` + `.csv` pairs plus `parameters.json` directly into `raw/`.
+This script and the accompanying files were developed using the FluidSound
+implementation (https://github.com/kangruix/FluidSound). The generator varies
+the bubble radius scale factor to produce systematically different water
+sounds: smaller bubbles → higher-pitched (thin trickle), larger bubbles →
+lower-pitched (heavy pour / fill). The parameter is called `bubble_size` and
+is a continuous scale factor; physically, scaling the radius by `s` scales
+the Minnaert frequency by `1/s`, so this directly controls the pitch
+character of the synthesized audio. The generator produces a dataset of 330 clips, (each 5 seconds long), to get around 27 minutes of audio, with `bubble_size` values logarithmically spaced between 0.5 and 2.0 (the default range). See `scripts/generate_dataset.py` for the exact parameterization and usage.
 
   Defaults include `--num_clips 330`, `--samplerate 48000`, and the default
   `--output_dir` is `raw/`. Example:
@@ -96,10 +91,6 @@ python scripts/generate_dataset.py --num_clips 330 \
     --bubble_file Scenes/GlassPour/trackedBubInfo.txt \
     --executable build/runFluidSound --output_dir raw
 ```
-
-Files produced by the generator are placed under `raw/`. This repository
-includes the generated dataset files in `raw/`.
-
 Citation & Licensing
 ---------------------
 
