@@ -23,22 +23,47 @@ appropriate attribution and licensing. The original work is described in:
 See the paper and reference materials at https://graphics.stanford.edu/papers/coupledbubbles/.
 The official BibTeX entry is provided in `CITATION.bib`.
 
-Dataset Aim
+Scripts overview
 --------------------------------------
 
-The goal is to create an audio texture dataset of bubble-based water sounds that
-varies systematically in a single continuous parameter, `bubble_size` (a radius
-scale). Key properties:
+`scripts/generate_dataset.py`: Main dataset generator. It scales bubble radii
+  (parameter `bubble_size`), runs the `runFluidSound` executable for each scale,
+  converts the simulation `output.txt` into a normalized `.wav`, and writes the
+  resulting `.wav` + `.csv` pairs plus `parameters.json` directly into `raw/`.
+  This script and the accompanying files were developed using the FluidSound
+  implementation (https://github.com/kangruix/FluidSound). The generator varies
+  the bubble radius scale factor to produce systematically different water
+  sounds: smaller bubbles → higher-pitched (thin trickle), larger bubbles →
+  lower-pitched (heavy pour / fill). The parameter is called `bubble_size` and
+  is a continuous scale factor; physically, scaling the radius by `s` scales
+  the Minnaert frequency by `1/s`, so this directly controls the pitch
+  character of the synthesized audio.
 
-- Produce ≈25–30 minutes of audio split across many short clips (the default
-  generator run produces several hundred clips). Each clip has an accompanying
-  CSV annotation and the dataset root contains a single `parameters.json` that
-  documents the parameter sweep.
-- For each clip the generator writes: `bubble_size_XXXX.wav` and
-  `bubble_size_XXXX.csv` (annotation with bubble/parameter-level info).
-- The single varying parameter, `bubble_size`, is a multiplicative scale on
-  bubble radii; scaling by s shifts the Minnaert frequency by 1/s, producing
-  perceptually distinct pitch/timbre across the dataset.
+  Defaults include `--num_clips 330`, `--samplerate 48000`, and the default
+  `--output_dir` is `raw/`. Example:
+
+```bash
+python scripts/generate_dataset.py --num_clips 330 --scale_min 0.5 --scale_max 2.0 \
+    --samplerate 48000 --scheme 0 --bubble_file Scenes/GlassPour/trackedBubInfo.txt \
+    --executable build/runFluidSound --output_dir raw
+```
+
+- `scripts/write_wav.py`: Simple utility that reads a simulation `output.txt`
+  (one sample per line) or a `.bin` float32 file and writes a normalized
+  `.wav` file. Usage: `python scripts/write_wav.py <path to sim. output> <samplerate>`.
+
+Dataset structure
+--------------------------------------
+
+- All generated files are placed in the repository `raw/` directory.
+- `parameters.json`: JSON describing the sweep of the `bubble_size` parameter
+  (the generator writes this into `raw/`). See `scripts/generate_dataset.py`
+  for the exact fields written.
+- Per-clip files (for each generated scale):
+  - `bubble_size_XXXX.wav` — normalized audio (samplerate per `--samplerate`).
+  - `bubble_size_XXXX.csv` — annotation with a header `bubble_size` and one
+    row per frame (75 fps). The CSV contains the constant parameter value used
+    for that clip (the generator creates these at 75 frames/sec).
 
 Build & Quick Usage
 -------------------
@@ -99,18 +124,6 @@ For contribution and developer guidance see `CONTRIBUTING.md`.
   - A temporary working directory is used and each simulation has a 5-minute timeout by default.
 
 See `CONTRIBUTING.md` for a short developer guide and notes about building the project.
-
-### Dataset Aim
-
-This repository includes tools to create a small "texture" dataset of water
-syntheses generated from the GlassPour scene. The goal is to produce roughly
-25–30 minutes of audio distributed over a continuous parameter called
-`bubble_size` (a multiplicative radius scale factor). Each dataset item is a
-pair: a `.wav` audio clip produced by `runFluidSound` and a `.csv` annotation
-file with a constant `bubble_size` value per clip. The generator writes
-`parameters.json` describing the parameter range and produces `.wav`/`.csv`
-pairs into `raw/` (the large generated files are omitted from the
-repository; see `.gitignore`).
 
 ### Citation
 
