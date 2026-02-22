@@ -1,4 +1,4 @@
-Wrote /Users/yalu/FluidSoundRepository/dataset/raw/parameters.json
+Wrote /Users/yalu/dataset-creation-berberian-sound-studio/raw/parameters.json
 
 [1/330] scale=0.5000 -> bubble_size_0001
   Already exists (5.48s), skipping
@@ -1082,6 +1082,6 @@ Dataset generation complete!
   Clips generated: 330/330
   Failed: 0
   Total audio: 1810.0s (30.2 min)
-  Output directory: /Users/yalu/FluidSoundRepository/dataset/raw
+  Output directory: /Users/yalu/dataset-creation-berberian-sound-studio/raw
   Files: parameters.json + 330 .wav/.csv pairs
 ============================================================
