@@ -1,0 +1,33 @@
+{
+  "Nx": 48,
+  "Ny": 48,
+  "Nz": 48,
+  "cellsize": 0.0125,
+  "FDTD_srate": 48000,
+  "shader_srate": 48000,
+  "blendrate": 50,
+  "ts": 0.18,
+  "tf": 5.5,
+  "damping": 0.0,
+  "objects": {
+    "1. Water": {
+      "shader": "Bubbles",
+      "offset": [ -0.0801, -0.1501, 0.0 ],
+      "bubFile": "../Scenes/GlassPour/trackedBubInfo.txt",
+      "meshDir": "../Scenes/GlassPour/meshes/"
+    },
+    "2. Glass": {
+      "shader": "Occluder",
+      "offset": [ -0.0801, -0.1501, 0.0 ],
+      "meshFile": "../Scenes/GlassPour/glassThick.obj",
+      "animFile": ""
+    }
+  },
+  "listeners": {
+    "1. Main Listener": {
+      "format": "Mono",
+      "output": "GlassPour_out",
+      "position": [ 0.145, 0.04, -0.01 ]
+    }
+  }
+}
